@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ashokkumar
 
 ### 💻 Full Stack Developer | Laravel | React | DevOps | n8n | AI Enthusiast  
-📍 Based in Chennai, India | 🛠️ 3.3+ Years of Experience
+📍 Based in Chennai, India | 🛠️ 7+ Years of Experience
 
 ---
 
@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Web Developer** with hands-on experience in buildi
 - 🔭 Currently working with modern JS, PHP, Node.js, Python, and cloud technologies.
 - 🌱 Always learning and exploring new frameworks and tools.
 - 👯 Open to collaborating on meaningful projects.
-- 📫 [Connect with me on LinkedIn](https://in.linkedin.com/in/madhankumar-s-7b7768187/es?trk=people-guest_people_search-card)
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/azzok/)
 
 ---
 
@@ -114,7 +114,7 @@ I'm a passionate **Full Stack Web Developer** with hands-on experience in buildi
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://in.linkedin.com/in/madhankumar-s-7b7768187/es?trk=people-guest_people_search-card)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azzok/)  
 - 🧠 [GitHub](https://github.com/azzok)  
 - ✉️ Email: `azzok17@gmail.com`
 
